@@ -1,10 +1,11 @@
 ## Ejecutar online
 
 Puedes ejecutar el proyecto directamente en Google Colab:
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/gh/HugoSolisHompanera/Juego-Wumpus-Python/blob/main/wumpus_intelligent_systems.ipynb)
 
-O acceder directamente aquí:  
-https://colab.research.google.com/gh/HugoSolisHompanera/Juego-Wumpus-Python/blob/main/wumpus_intelligent_systems.ipynb
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/HugoSolisHompanera/Juego-Wumpus-Python/blob/main/wumpus_intelligent_systems.ipynb)
+
+También puedes acceder directamente al notebook aquí:  
+https://colab.research.google.com/github/HugoSolisHompanera/Juego-Wumpus-Python/blob/main/wumpus_intelligent_systems.ipynb
 
 
 # Wumpus World - Proyecto de Sistemas Inteligentes
