@@ -1,9 +1,4 @@
-Perfecto, ya he visto tu notebook 👌
-Tu proyecto es implementación del Wumpus con lógica de juego + utilidad + agente, no tanto ML puro → hay que venderlo bien como Sistemas Inteligentes / IA básica.
 
-Te dejo un README 100% adaptado a TU proyecto (copiar y pegar):
-
-🔥 README PERFECTO PARA TU PROYECTO
 # Wumpus World - Proyecto de Sistemas Inteligentes
 
 Proyecto académico desarrollado en Python utilizando Jupyter Notebook para la asignatura de Sistemas Inteligentes.
