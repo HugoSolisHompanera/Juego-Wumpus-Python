@@ -1,2 +1,44 @@
-# Juego-Wumpus-Python
-Proyecto académico en Python sobre el juego Wumpus aplicado a aprendizaje automático / inteligencia artificial.
+Perfecto, ya he visto tu notebook 👌
+Tu proyecto es implementación del Wumpus con lógica de juego + utilidad + agente, no tanto ML puro → hay que venderlo bien como Sistemas Inteligentes / IA básica.
+
+Te dejo un README 100% adaptado a TU proyecto (copiar y pegar):
+
+🔥 README PERFECTO PARA TU PROYECTO
+# Wumpus World - Proyecto de Sistemas Inteligentes
+
+Proyecto académico desarrollado en Python utilizando Jupyter Notebook para la asignatura de Sistemas Inteligentes.
+
+## Descripción
+
+Este proyecto consiste en la implementación del entorno del juego Wumpus, incluyendo la lógica del tablero, la interacción del agente y la evaluación de estados mediante funciones de utilidad.
+
+El objetivo es simular el comportamiento de un agente en un entorno incierto, aplicando conceptos básicos de inteligencia artificial y toma de decisiones.
+
+## Funcionalidades principales
+
+- Generación automática del tablero del juego
+- Representación de elementos (agente, oro, peligros, etc.)
+- Implementación de la lógica del juego
+- Evaluación de estados mediante función de utilidad
+- Simulación de partidas del agente
+- Interacción paso a paso del entorno
+
+## Tecnologías utilizadas
+
+- Python
+- Jupyter Notebook
+- Librerías estándar (math, random, copy, etc.)
+
+## Estructura del proyecto
+
+- `Tablerowumpus`: Clase principal que gestiona el tablero y sus estados
+- Funciones auxiliares para lógica del juego
+- Función principal `jugar_wumpus()` para ejecutar la simulación
+
+## Cómo ejecutar el proyecto
+
+1. Descargar o clonar el repositorio:
+
+```bash
+git clone https://github.com/TU_USUARIO/wumpus-machine-learning.git
+
