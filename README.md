@@ -39,10 +39,5 @@ El objetivo es simular el comportamiento de un agente en un entorno incierto, ap
 - Funciones auxiliares para lógica del juego
 - Función principal `jugar_wumpus()` para ejecutar la simulación
 
-## Cómo ejecutar el proyecto
 
-1. Descargar o clonar el repositorio:
-
-```bash
-git clone https://github.com/TU_USUARIO/wumpus-machine-learning.git
 
